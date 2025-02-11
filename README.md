@@ -41,27 +41,23 @@ Ambas versiones (móvil y escritorio) están **sincronizadas con la misma base d
 ## 📸 **Capturas de Pantalla**
 
 <h3>📌 Base de Datos</h3>
-<img src="https://github.com/user-attachments/assets/162d133a-a415-4aa5-a208-38f6c3c9fe65" width="600"/>
+<img src="https://github.com/user-attachments/assets/162d133a-a415-4aa5-a208-38f6c3c9fe65" width="450"/>
 
 <h3>📌 Interfaz de la Aplicación</h3>
-<img src="https://github.com/user-attachments/assets/e868f4e5-b9fb-4868-a89b-15bb9f7a6e7d" width="500"/>
-<img src="https://github.com/user-attachments/assets/26d0e4fa-1c4c-43c3-80b0-bec48dd74fb6" width="500"/>
-<img src="https://github.com/user-attachments/assets/8b0a5b92-fce3-463f-89ef-b8f7da55bc9b" width="500"/>
-<img src="https://github.com/user-attachments/assets/ef3fafab-e348-436f-8bdc-a01e1ec21e46" width="500"/>
-<img src="https://github.com/user-attachments/assets/c3740ae6-29ec-47ab-9d93-8940fe6a41a8" width="500"/>
-<img src="https://github.com/user-attachments/assets/9a27e00f-a6e2-4e7c-8de6-a39177d24ea4" width="500"/>
-
-<h3>📌 Módulo de Facturación y Clientes</h3>
-<img src="https://github.com/user-attachments/assets/8a607bc9-7fd7-493b-b0bf-1706520abf99" width="500"/>
-<img src="https://github.com/user-attachments/assets/ed4087db-d875-4204-9293-9810595e7c00" width="500"/>
-<img src="https://github.com/user-attachments/assets/106c5ccd-74a4-4865-91ec-f9caf64eca1c" width="500"/>
-<img src="https://github.com/user-attachments/assets/46bc170e-e48b-499d-b758-a2bc104ccfde" width="500"/>
-<img src="https://github.com/user-attachments/assets/d5999155-3ede-4f36-96b7-b8cf81306060" width="500"/>
-
-<h3>📌 Inventario y Gestión de Motos</h3>
-<img src="https://github.com/user-attachments/assets/1ac81985-6181-41a2-972e-3a076cfdf6f5" width="500"/>
-<img src="https://github.com/user-attachments/assets/72e0d103-3990-4272-a0c1-e22a181b4bed" width="500"/>
-<img src="https://github.com/user-attachments/assets/7e30c85c-2555-446d-81b3-61ad504bf16f" width="500"/>
+<img src="https://github.com/user-attachments/assets/e868f4e5-b9fb-4868-a89b-15bb9f7a6e7d" width="450"/>
+<img src="https://github.com/user-attachments/assets/26d0e4fa-1c4c-43c3-80b0-bec48dd74fb6" width="450"/>
+<img src="https://github.com/user-attachments/assets/8b0a5b92-fce3-463f-89ef-b8f7da55bc9b" width="450"/>
+<img src="https://github.com/user-attachments/assets/ef3fafab-e348-436f-8bdc-a01e1ec21e46" width="450"/>
+<img src="https://github.com/user-attachments/assets/c3740ae6-29ec-47ab-9d93-8940fe6a41a8" width="450"/>
+<img src="https://github.com/user-attachments/assets/9a27e00f-a6e2-4e7c-8de6-a39177d24ea4" width="450"/>
+<img src="https://github.com/user-attachments/assets/8a607bc9-7fd7-493b-b0bf-1706520abf99" width="450"/>
+<img src="https://github.com/user-attachments/assets/ed4087db-d875-4204-9293-9810595e7c00" width="450"/>
+<img src="https://github.com/user-attachments/assets/106c5ccd-74a4-4865-91ec-f9caf64eca1c" width="450"/>
+<img src="https://github.com/user-attachments/assets/46bc170e-e48b-499d-b758-a2bc104ccfde" width="450"/>
+<img src="https://github.com/user-attachments/assets/d5999155-3ede-4f36-96b7-b8cf81306060" width="450"/>
+<img src="https://github.com/user-attachments/assets/1ac81985-6181-41a2-972e-3a076cfdf6f5" width="450"/>
+<img src="https://github.com/user-attachments/assets/72e0d103-3990-4272-a0c1-e22a181b4bed" width="450"/>
+<img src="https://github.com/user-attachments/assets/7e30c85c-2555-446d-81b3-61ad504bf16f" width="450"/>
 
 ---
 
